@@ -1,0 +1,15 @@
+/Users/bini/RiderProjects/CSharp_Mini_Projects/Fundamentals/01_UpDownGame/01_UpDownGame/bin/Debug/net8.0/01_UpDownGame
+/Users/bini/RiderProjects/CSharp_Mini_Projects/Fundamentals/01_UpDownGame/01_UpDownGame/bin/Debug/net8.0/01_UpDownGame.deps.json
+/Users/bini/RiderProjects/CSharp_Mini_Projects/Fundamentals/01_UpDownGame/01_UpDownGame/bin/Debug/net8.0/01_UpDownGame.runtimeconfig.json
+/Users/bini/RiderProjects/CSharp_Mini_Projects/Fundamentals/01_UpDownGame/01_UpDownGame/bin/Debug/net8.0/01_UpDownGame.dll
+/Users/bini/RiderProjects/CSharp_Mini_Projects/Fundamentals/01_UpDownGame/01_UpDownGame/bin/Debug/net8.0/01_UpDownGame.pdb
+/Users/bini/RiderProjects/CSharp_Mini_Projects/Fundamentals/01_UpDownGame/01_UpDownGame/obj/Debug/net8.0/01_UpDownGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bini/RiderProjects/CSharp_Mini_Projects/Fundamentals/01_UpDownGame/01_UpDownGame/obj/Debug/net8.0/01_UpDownGame.AssemblyInfoInputs.cache
+/Users/bini/RiderProjects/CSharp_Mini_Projects/Fundamentals/01_UpDownGame/01_UpDownGame/obj/Debug/net8.0/01_UpDownGame.AssemblyInfo.cs
+/Users/bini/RiderProjects/CSharp_Mini_Projects/Fundamentals/01_UpDownGame/01_UpDownGame/obj/Debug/net8.0/01_UpDownGame.csproj.CoreCompileInputs.cache
+/Users/bini/RiderProjects/CSharp_Mini_Projects/Fundamentals/01_UpDownGame/01_UpDownGame/obj/Debug/net8.0/01_UpDownGame.sourcelink.json
+/Users/bini/RiderProjects/CSharp_Mini_Projects/Fundamentals/01_UpDownGame/01_UpDownGame/obj/Debug/net8.0/01_UpDownGame.dll
+/Users/bini/RiderProjects/CSharp_Mini_Projects/Fundamentals/01_UpDownGame/01_UpDownGame/obj/Debug/net8.0/refint/01_UpDownGame.dll
+/Users/bini/RiderProjects/CSharp_Mini_Projects/Fundamentals/01_UpDownGame/01_UpDownGame/obj/Debug/net8.0/01_UpDownGame.pdb
+/Users/bini/RiderProjects/CSharp_Mini_Projects/Fundamentals/01_UpDownGame/01_UpDownGame/obj/Debug/net8.0/01_UpDownGame.genruntimeconfig.cache
+/Users/bini/RiderProjects/CSharp_Mini_Projects/Fundamentals/01_UpDownGame/01_UpDownGame/obj/Debug/net8.0/ref/01_UpDownGame.dll

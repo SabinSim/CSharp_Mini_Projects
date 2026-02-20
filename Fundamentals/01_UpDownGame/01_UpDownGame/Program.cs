@@ -6,21 +6,42 @@ class Program
 	{
 		bool isValid;
 		int number;
+		int secretNumber = new Random().Next(1, 101);
+		
+		bool isCorrect = false;
 
-		do
+		while (!isCorrect)
 		{
-			Console.Write("Enter a number: ");
-			string input = Console.ReadLine();
-			
-			isValid = int.TryParse(input, out number);
-
-			if (!isValid)
+			do
 			{
-				Console.WriteLine("Invalid input");
+				Console.Write("Enter a number: ");
+				string input = Console.ReadLine();
+			
+				isValid = int.TryParse(input, out number);
+
+				if (!isValid)
+				{
+					Console.WriteLine("Invalid input");
+				}
+			
+			} while (!isValid);
+
+			if (number > secretNumber)
+			{
+				Console.WriteLine("Down");
+			}
+			else if (number < secretNumber)
+			{
+				Console.WriteLine("Up");
+			}
+			else
+			{
+				Console.WriteLine("Right");
+				isCorrect = true;
 			}
 			
-		} while (!isValid);
+		}
+
 		
-		Console.WriteLine("Passed : " + number);
 	}
 }

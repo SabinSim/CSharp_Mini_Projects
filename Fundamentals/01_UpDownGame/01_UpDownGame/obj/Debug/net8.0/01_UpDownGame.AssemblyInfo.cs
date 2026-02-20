@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01_UpDownGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cef1dd5b2870a2adfd7d7456c8380083fc422f8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+714b8dc0cba05feaefbfb2cbf6d455f27ea4c571")]
 [assembly: System.Reflection.AssemblyProductAttribute("01_UpDownGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01_UpDownGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
