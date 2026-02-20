@@ -11,8 +11,7 @@ class Program
 		bool isCorrect = false;
 
 		while (!isCorrect)
-		{
-			do
+		{do
 			{
 				Console.Write("Enter a number: ");
 				string input = Console.ReadLine();
@@ -26,21 +25,23 @@ class Program
 			
 			} while (!isValid);
 
-			if (number > secretNumber)
-			{
-				Console.WriteLine("Down");
-			}
-			else if (number < secretNumber)
+			if (number < secretNumber)
 			{
 				Console.WriteLine("Up");
 			}
+			else if (number > secretNumber)
+			{
+				Console.WriteLine("Down");
+			}
 			else
 			{
-				Console.WriteLine("Right");
+				Console.WriteLine("Your number is " + number);
 				isCorrect = true;
 			}
 			
 		}
+		
+		
 
 		
 	}
