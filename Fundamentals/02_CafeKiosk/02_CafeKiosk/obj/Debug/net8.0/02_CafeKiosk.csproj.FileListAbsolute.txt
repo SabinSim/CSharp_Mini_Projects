@@ -1,0 +1,15 @@
+/Users/bini/RiderProjects/CSharp_Mini_Projects/Fundamentals/02_CafeKiosk/02_CafeKiosk/bin/Debug/net8.0/02_CafeKiosk
+/Users/bini/RiderProjects/CSharp_Mini_Projects/Fundamentals/02_CafeKiosk/02_CafeKiosk/bin/Debug/net8.0/02_CafeKiosk.deps.json
+/Users/bini/RiderProjects/CSharp_Mini_Projects/Fundamentals/02_CafeKiosk/02_CafeKiosk/bin/Debug/net8.0/02_CafeKiosk.runtimeconfig.json
+/Users/bini/RiderProjects/CSharp_Mini_Projects/Fundamentals/02_CafeKiosk/02_CafeKiosk/bin/Debug/net8.0/02_CafeKiosk.dll
+/Users/bini/RiderProjects/CSharp_Mini_Projects/Fundamentals/02_CafeKiosk/02_CafeKiosk/bin/Debug/net8.0/02_CafeKiosk.pdb
+/Users/bini/RiderProjects/CSharp_Mini_Projects/Fundamentals/02_CafeKiosk/02_CafeKiosk/obj/Debug/net8.0/02_CafeKiosk.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bini/RiderProjects/CSharp_Mini_Projects/Fundamentals/02_CafeKiosk/02_CafeKiosk/obj/Debug/net8.0/02_CafeKiosk.AssemblyInfoInputs.cache
+/Users/bini/RiderProjects/CSharp_Mini_Projects/Fundamentals/02_CafeKiosk/02_CafeKiosk/obj/Debug/net8.0/02_CafeKiosk.AssemblyInfo.cs
+/Users/bini/RiderProjects/CSharp_Mini_Projects/Fundamentals/02_CafeKiosk/02_CafeKiosk/obj/Debug/net8.0/02_CafeKiosk.csproj.CoreCompileInputs.cache
+/Users/bini/RiderProjects/CSharp_Mini_Projects/Fundamentals/02_CafeKiosk/02_CafeKiosk/obj/Debug/net8.0/02_CafeKiosk.sourcelink.json
+/Users/bini/RiderProjects/CSharp_Mini_Projects/Fundamentals/02_CafeKiosk/02_CafeKiosk/obj/Debug/net8.0/02_CafeKiosk.dll
+/Users/bini/RiderProjects/CSharp_Mini_Projects/Fundamentals/02_CafeKiosk/02_CafeKiosk/obj/Debug/net8.0/refint/02_CafeKiosk.dll
+/Users/bini/RiderProjects/CSharp_Mini_Projects/Fundamentals/02_CafeKiosk/02_CafeKiosk/obj/Debug/net8.0/02_CafeKiosk.pdb
+/Users/bini/RiderProjects/CSharp_Mini_Projects/Fundamentals/02_CafeKiosk/02_CafeKiosk/obj/Debug/net8.0/02_CafeKiosk.genruntimeconfig.cache
+/Users/bini/RiderProjects/CSharp_Mini_Projects/Fundamentals/02_CafeKiosk/02_CafeKiosk/obj/Debug/net8.0/ref/02_CafeKiosk.dll
