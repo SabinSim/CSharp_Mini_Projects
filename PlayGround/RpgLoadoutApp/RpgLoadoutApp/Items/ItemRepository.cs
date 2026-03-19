@@ -12,7 +12,8 @@ public class ItemRepository : IItemRepository
         new Item(2, "Dragon Shield"),
         new Item(3, "Health Potion"),
         new Item(4, "Archmage Staff"),
-        new Item(5, "Mana Ring")
+        new Item(5, "Mana Ring"),
+        new Item(6, "Teleport Scroll")
     };
 
 
