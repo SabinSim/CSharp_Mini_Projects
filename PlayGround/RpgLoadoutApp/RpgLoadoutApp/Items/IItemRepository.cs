@@ -2,5 +2,5 @@ namespace RpgLoadoutApp.Items;
 
 public interface IItemRepository
 {
-    Item GetbyId(int id);
+    Item GetById(int id);
 }

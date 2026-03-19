@@ -15,12 +15,15 @@ public class ItemRepository : IItemRepository
         new Item(5, "Mana Ring")
     };
 
-    public Item GetbyId(int id)
+
+
+    public Item GetById(int id)
     {
         Item item = _items.SingleOrDefault(x => x.Id == id);
         if (item == null)
         {
-            throw new Exception($"\n[오류] 데이터베이스에 {id}번")
+            throw new Exception($"\n[error] Item with id {id} not found.");
         }
+        return item;
     }
 }

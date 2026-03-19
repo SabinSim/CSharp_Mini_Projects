@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RpgLoadoutApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce7fd57260e88a6d3d54268573f9f1f306268205")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04a041017019c01a74b75ea0714eb40b9bf10266")]
 [assembly: System.Reflection.AssemblyProductAttribute("RpgLoadoutApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RpgLoadoutApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
