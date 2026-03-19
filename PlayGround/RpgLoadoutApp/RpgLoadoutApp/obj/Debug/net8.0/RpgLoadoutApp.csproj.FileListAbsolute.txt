@@ -1,0 +1,15 @@
+/Users/bini/RiderProjects/CSharp_Mini_Projects/PlayGround/RpgLoadoutApp/RpgLoadoutApp/bin/Debug/net8.0/RpgLoadoutApp
+/Users/bini/RiderProjects/CSharp_Mini_Projects/PlayGround/RpgLoadoutApp/RpgLoadoutApp/bin/Debug/net8.0/RpgLoadoutApp.deps.json
+/Users/bini/RiderProjects/CSharp_Mini_Projects/PlayGround/RpgLoadoutApp/RpgLoadoutApp/bin/Debug/net8.0/RpgLoadoutApp.runtimeconfig.json
+/Users/bini/RiderProjects/CSharp_Mini_Projects/PlayGround/RpgLoadoutApp/RpgLoadoutApp/bin/Debug/net8.0/RpgLoadoutApp.dll
+/Users/bini/RiderProjects/CSharp_Mini_Projects/PlayGround/RpgLoadoutApp/RpgLoadoutApp/bin/Debug/net8.0/RpgLoadoutApp.pdb
+/Users/bini/RiderProjects/CSharp_Mini_Projects/PlayGround/RpgLoadoutApp/RpgLoadoutApp/obj/Debug/net8.0/RpgLoadoutApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bini/RiderProjects/CSharp_Mini_Projects/PlayGround/RpgLoadoutApp/RpgLoadoutApp/obj/Debug/net8.0/RpgLoadoutApp.AssemblyInfoInputs.cache
+/Users/bini/RiderProjects/CSharp_Mini_Projects/PlayGround/RpgLoadoutApp/RpgLoadoutApp/obj/Debug/net8.0/RpgLoadoutApp.AssemblyInfo.cs
+/Users/bini/RiderProjects/CSharp_Mini_Projects/PlayGround/RpgLoadoutApp/RpgLoadoutApp/obj/Debug/net8.0/RpgLoadoutApp.csproj.CoreCompileInputs.cache
+/Users/bini/RiderProjects/CSharp_Mini_Projects/PlayGround/RpgLoadoutApp/RpgLoadoutApp/obj/Debug/net8.0/RpgLoadoutApp.sourcelink.json
+/Users/bini/RiderProjects/CSharp_Mini_Projects/PlayGround/RpgLoadoutApp/RpgLoadoutApp/obj/Debug/net8.0/RpgLoadoutApp.dll
+/Users/bini/RiderProjects/CSharp_Mini_Projects/PlayGround/RpgLoadoutApp/RpgLoadoutApp/obj/Debug/net8.0/refint/RpgLoadoutApp.dll
+/Users/bini/RiderProjects/CSharp_Mini_Projects/PlayGround/RpgLoadoutApp/RpgLoadoutApp/obj/Debug/net8.0/RpgLoadoutApp.pdb
+/Users/bini/RiderProjects/CSharp_Mini_Projects/PlayGround/RpgLoadoutApp/RpgLoadoutApp/obj/Debug/net8.0/RpgLoadoutApp.genruntimeconfig.cache
+/Users/bini/RiderProjects/CSharp_Mini_Projects/PlayGround/RpgLoadoutApp/RpgLoadoutApp/obj/Debug/net8.0/ref/RpgLoadoutApp.dll
